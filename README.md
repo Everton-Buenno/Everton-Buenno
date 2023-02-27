@@ -1,16 +1,27 @@
-### Hi there 👋
+# Everton Bueno Da Silva
+## Desenvolvedor .NET
 
-<!--
-**Everton-Buenno/Everton-Buenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+- 💻 C#
+- 🌐 .NET Framework, ASP.NET MVC, HTML5, CSS, Bootstrap, JavaScript
+- 🛢 SQL Server, PostgreSQL
+- ⚙️ Git, GitHub
+- 🔧 Visual Studio, Visual Studio Code
 
-Here are some ideas to get you started:
+### 📚 Formação Acadêmica
+- Fatec Rio Preto (Faculdade de Tecnologia do Estado de São Paulo) - Informática para Negócios - conclusão em 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📚 Cursos Complementares
+- ASP.NET MVC do Desenvolvedor.io
+- C# do Desenvolvedor.io
+- C# Avançado da Fundação Bradesco
+
+### 🏆 Certificações
+- [Certificado de Conclusão - ASP.NET MVC do Desenvolvedor.io]-https://desenvolvedor.io/certificado/e4996180-cdd3-4521-b3a3-60d1570c3284
+- [Certificado de Conclusão - Iniciando com ASP.NET-Desenvolvedor.io]-[https://desenvolvedor.io/certificado/e4996180-cdd3-4521-b3a3-60d1570c3284](https://desenvolvedor.io/certificado/3d85432a-1245-4489-b05f-9bed6a9ede42)
+- [Certificado de Conclusão - C# Avançado da Fundação Bradesco]-https://pt.slideshare.net/EvertonBuenno/escola-virtual-fundao-bradescopdf-253891750))
+
+
+
