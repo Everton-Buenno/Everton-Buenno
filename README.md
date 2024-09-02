@@ -9,7 +9,7 @@
 - 🔧 Visual Studio, Visual Studio Code
 
 ### 📚 Formação Acadêmica
-- Fatec Rio Preto (Faculdade de Tecnologia do Estado de São Paulo) - Informática para Negócios - conclusão em 2025
+- Técnologo em Análise e Desenvolvimento de Sistemas(2023 - 2025)
 
 
 
